@@ -18,8 +18,7 @@ if(isset($_POST['submit'])){
 		array("G001","G003","G005","G006","G013","G016","G020"));
 		
 	$status=false;
-	for ($i=0; $i <10 ; $i++) {
-		
+	for ($i=0; $i <1 ; $i++) {
 		$result=($rule_input==$rule[$i]);
 		if ($result) {
 			$status=true;
