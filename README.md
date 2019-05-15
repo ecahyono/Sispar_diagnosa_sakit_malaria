@@ -1,2 +1,3 @@
-# Sispar_diagnosa_sakit_malaria
-sistempakar diagnosa penyakit malaria menggunakan metode forward chaining
+# tugas_Ai
+SIstem Pendiagnosa penyakit balita menggunakan metode forward chaining
+(Project dikerjakan oleh Kelompok untuk memenuhi syarat mata kuliah Kecerdasan Buatan)
